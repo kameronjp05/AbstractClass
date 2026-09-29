@@ -19,8 +19,12 @@ public class Main {
             sh.calculateArea();
         }
 
-        for (int i = 0; i < shapes.length; i++) {
-            shapes[i].calculateArea();
-        }
+//        for (int i = 0; i < shapes.length; i++) {
+//            shapes[i].calculateArea();
+//        }
+        //can a method be static and abstract at the same time?
+        // can a class be static?
+        // can a class be static and abstract?
+        //can a class be protected and abstract?
     }
 }
